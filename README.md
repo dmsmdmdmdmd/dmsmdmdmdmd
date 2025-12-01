@@ -10,6 +10,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="48">
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="260"/>
+</p>
+
 ---
 
 # 👨‍💻 **Обо мне**
@@ -63,9 +67,10 @@ Telegram-бот, который отправляет задания, объяс�
 # 📊 **GitHub Статистика**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dmsmdmdmdmd&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dmsmdmdmdmd&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dmsmdmdmdmd&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=dmsmdmdmdmd&theme=tokyonight" height="160"/>
 </p>
+
 
 ---
 
