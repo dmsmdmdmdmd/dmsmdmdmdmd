@@ -1,44 +1,44 @@
-# dmsmdmdmdmd
+# Hi, I'm dmsmdmdmdmd
 
-Студент Горного университета  
-Направление: **Управление в технических системах**  
-Занимаюсь прикладным программированием и созданием утилит для автоматизации.
-
----
-
-## 🧷 О себе
-
-- Изучаю программирование через практику и небольшие проекты  
-- Работаю с прикладными задачами и автоматизацией  
-- Интересуюсь Python, системами управления и интеграцией ИТ в инженерную сферу  
+Student at the Mining University  
+Field: **Control in Technical Systems**  
+I work on applied programming and creating utilities for automation.
 
 ---
 
-## ⚙️ Технологии
+## 🧷 About Me
 
-**Языки и инструменты:**
-- Python  
-- Git / GitHub  
-- PowerShell, Bash  
-- FastAPI  
-- SQLite / PostgreSQL (базовый уровень)
-
-**Рабочая среда:**
-- Windows / Linux  
-- VS Code  
+- I learn programming through practice and small projects
+- I work on applied tasks and automation
+- Interested in Python, control systems, and IT integration in the engineering field
 
 ---
 
-## 📁 Небольшие проекты
+## ⚙️ Technologies
 
-- **GPB-Feedback-Parser** — сбор и структурирование отзывов  
-- **Telegram-Bot-Tutor** — обучающий Telegram-бот  
-- **Windows-Cursor-Manager** — управление наборами курсоров  
-- **Downloads-Sorter** — автоматическая сортировка файлов  
+**Languages & Tools:**
+- Python
+- Git / GitHub
+- PowerShell, Bash
+- FastAPI
+- SQLite / PostgreSQL (basic level)
+
+**Work Environment:**
+- Windows / Linux
+- VS Code
 
 ---
 
-## 📬 Контакты
+## 📁 Small Projects
+
+- **GPB-Feedback-Parser** — collecting and structuring feedback
+- **Telegram-Bot-Tutor** — educational Telegram bot
+- **Windows-Cursor-Manager** — managing cursor sets
+- **Downloads-Sorter** — automatic file sorting
+
+---
+
+## 📬 Contacts
 
 Telegram: **[t.me/dimsmdmmdmd](https://t.me/dimsmdmmdmd)**
 
