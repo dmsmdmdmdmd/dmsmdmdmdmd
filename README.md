@@ -35,7 +35,7 @@ I build small tools, automate tasks, and explore different technologies through 
 - **Telegram-Bot-Tutor** — educational Telegram bot  
 - **Windows-Cursor-Manager** — cursor set manager  
 - **Downloads-Sorter** — automatic file organizer  
-- **Flutter-Lab-App** — multi-page mobile app with animated UI (Flutter)
+- **Flutter-First-App** — multi-page mobile app with animated UI (Flutter)
 
 ---
 
